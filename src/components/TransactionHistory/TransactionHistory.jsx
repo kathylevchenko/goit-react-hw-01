@@ -13,6 +13,7 @@ export const TransactionHistory = ({ transactions }) => {
             <th>Currency</th>
           </tr>
         </thead>
+    
   
         <tbody className={css.tableBody}>
           {transformedTransactions.map((transaction) => (

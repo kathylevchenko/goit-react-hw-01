@@ -24,10 +24,11 @@
     align-items: center;
     justify-content: space-around;
     width: 100%;
+    color: rgb(13, 13, 13)
   }
   .tableHead {
-    background-color: #191818;
-    color: #fafafa;
+    background-color: #696666;
+    color: #060606;
     width: 540px;
     display: flex;
     gap: 20px;
