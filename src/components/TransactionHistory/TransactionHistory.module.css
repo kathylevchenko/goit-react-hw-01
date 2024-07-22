@@ -8,7 +8,8 @@
     margin-bottom: 34px;
   }
   .tableBody .tableRow:nth-child(even) {
-    background-color: lightgray; /* змінюємо фон на світло-сірий */
+    background-color: lightgray;
+    color: #0f0e0e;
   }
   .tableHead,
   .tableDescription {
